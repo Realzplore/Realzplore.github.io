@@ -20,8 +20,7 @@ bin-release/
 *.ipr
 
 ### Hexo deploy info ###
-hexo-beantech/.deploy_git
-hexo-beantech/public
+node_modules/
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
